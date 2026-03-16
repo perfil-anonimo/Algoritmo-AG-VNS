@@ -48,7 +48,6 @@ O arquivo **`instancias_cvrp_organizado.csv`** centraliza todas as instâncias g
 1.  **Clone o repositório:**
     ```bash
     git clone https://github.com/perfil-anonimo/Algoritmo-AG-VNS.git
-    cd cvrp-e-waste-instances
     ```
 
 2.  **Compile o solver C++:**
